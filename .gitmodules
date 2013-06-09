@@ -1,0 +1,24 @@
+[submodule "head"]
+	path = head
+	url = https://github.com/mobz/elasticsearch-head.git
+[submodule "sense"]
+	path = sense
+	url = https://github.com/bleskes/sense.git
+[submodule "bigdesk"]
+	path = bigdesk
+	url = https://github.com/lukas-vlcek/bigdesk.git
+[submodule "hq"]
+	path = hq
+	url = https://github.com/royrusso/elasticsearch-HQ.git
+[submodule "paramedic"]
+	path = paramedic
+	url = https://github.com/karmi/elasticsearch-paramedic.git
+[submodule "segmentspy"]
+	path = segmentspy
+	url = https://github.com/polyfractal/elasticsearch-segmentspy.git
+[submodule "inquisitor"]
+	path = inquisitor
+	url = https://github.com/polyfractal/elasticsearch-inquisitor.git
+[submodule "kibana"]
+	path = kibana
+	url = https://github.com/elasticsearch/kibana.git
